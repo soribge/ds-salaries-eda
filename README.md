@@ -37,7 +37,12 @@ Dieses Projekt analysiert globale Gehaltsdaten aus dem Data-Science- und ML-Bere
 
 ## Key Findings
 
-*(werden nach Abschluss der Analyse ergänzt)*
+> **Status:** Analyse in Arbeit – die folgenden Findings basieren auf den bisher abgeschlossenen Analyseschritten. Weitere Ergebnisse folgen.
+
+- **Starkes Gehaltswachstum 2020→2023:** Der Median-Jahresverdienst stieg von ~80k USD (2020) auf ~143k USD (2023) – ein Anstieg von knapp 80% in drei Jahren.
+- **Erfahrung ist der stärkste Hebel:** Entry-Level (~75k Median) verdienen weniger als halb so viel wie Senior-Level (~154k) und Executive-Level (~185k).
+- **Datensatz stark auf mittelgroße Unternehmen konzentriert:** ~89% der Einträge stammen aus Medium-Firmen, was einen direkten Größenvergleich erschwert. Die Gehaltsunterschiede zwischen den Kategorien sind möglicherweise auf unterschiedliche Repräsentation im Datensatz (Self-Selection Bias) zurückzuführen, nicht auf tatsächliche Gehaltsstrukturen.
+- **US-Markt dominiert:** ~80% der Datenpunkte kommen aus den USA; US-Median (~149k USD) liegt deutlich über UK (~91k) und dem Rest Europas.
 
 ---
 
