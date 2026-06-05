@@ -50,7 +50,7 @@ Dieses Projekt analysiert globale Gehaltsdaten aus dem Data-Science- und ML-Bere
 
 ```bash
 # Repository klonen
-git clone https://github.com/DEIN-USERNAME/ds-salaries-eda.git
+git clone https://github.com/soribge/ds-salaries-eda.git
 cd ds-salaries-eda
 
 # Abhängigkeiten installieren
