@@ -76,4 +76,4 @@ ds-salaries-eda/
 
 ---
 
-*Erstellt im Rahmen eines Data-Science-Portfolios. Weitere Projekte: [github.com/DEIN-USERNAME](https://github.com/soribge)*
+*Erstellt im Rahmen eines Data-Science-Portfolios. Weitere Projekte: [github.com/soribge](https://github.com/soribge)*
