@@ -43,6 +43,15 @@ Dieses Projekt analysiert globale Gehaltsdaten aus dem Data-Science- und ML-Bere
 - **Erfahrung ist der stärkste Hebel:** Entry-Level (~75k Median) verdienen weniger als halb so viel wie Senior-Level (~154k) und Executive-Level (~185k).
 - **Datensatz stark auf mittelgroße Unternehmen konzentriert:** ~89% der Einträge stammen aus Medium-Firmen, was einen direkten Größenvergleich erschwert. Die Gehaltsunterschiede zwischen den Kategorien sind möglicherweise auf unterschiedliche Repräsentation im Datensatz (Self-Selection Bias) zurückzuführen, nicht auf tatsächliche Gehaltsstrukturen.
 - **US-Markt dominiert:** ~80% der Datenpunkte kommen aus den USA; US-Median (~149k USD) liegt deutlich über UK (~91k) und dem Rest Europas.
+- **ML/AI-Rollen sind die bestbezahlten Job-Titel:** Director of Data Science (~203k), 
+  Applied Scientist (~191k) und ML Engineer (~189k) führen das Ranking an. 
+  Auch das Mindestgehalt dieser Rollen liegt deutlich über dem Median der 
+  schlechtbezahlten Titel.
+- **BI- und Analyst-Rollen bilden das untere Ende:** Data Specialist (~85k) und 
+  Research Analyst (~85k) verdienen weniger als halb so viel wie die Top-Rollen — 
+  trotz ähnlicher Datenkompetenz.
+- **Analyse basiert auf 24 Job-Titeln mit ≥ 30 Einträgen** (von 132 gesamt); 
+  57 weitere Titel wurden wegen zu geringer Sample Size ausgeschlossen.
 
 ---
 
