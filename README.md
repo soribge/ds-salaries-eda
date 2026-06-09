@@ -52,6 +52,8 @@ Dieses Projekt analysiert globale Gehaltsdaten aus dem Data-Science- und ML-Bere
   trotz ähnlicher Datenkompetenz.
 - **Analyse basiert auf 24 Job-Titeln mit ≥ 30 Einträgen** (von 132 gesamt); 
   57 weitere Titel wurden wegen zu geringer Sample Size ausgeschlossen.
+- **Remote-Arbeit zahlt sich finanziell kaum aus:** Der Median-Gehaltsunterschied zwischen Remote (~137k) und On-site (~142k) beträgt nur ~3,8% — kein signifikanter Unterschied. Hybrid-Jobs weisen einen deutlich niedrigeren Median (~69k) auf, sind aber mit n=213 zu schwach vertreten für belastbare Aussagen.
+- **Employment Type als Confounder:** 99.3% der Einträge sind Full-time-Stellen. Der Work-Model-Vergleich wurde auf Full-time beschränkt; die verbleibenden geografischen Verzerrungen (Niedriglohnländer) werden in Abschnitt 7 adressiert.
 
 ---
 
