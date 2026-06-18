@@ -37,23 +37,12 @@ Dieses Projekt analysiert globale Gehaltsdaten aus dem Data-Science- und ML-Bere
 
 ## Key Findings
 
-> **Status:** Analyse in Arbeit – die folgenden Findings basieren auf den bisher abgeschlossenen Analyseschritten. Weitere Ergebnisse folgen.
-
-- **Starkes Gehaltswachstum 2020→2023:** Der Median-Jahresverdienst stieg von ~80k USD (2020) auf ~143k USD (2023) – ein Anstieg von knapp 80% in drei Jahren.
-- **Erfahrung ist der stärkste Hebel:** Entry-Level (~75k Median) verdienen weniger als halb so viel wie Senior-Level (~154k) und Executive-Level (~185k).
-- **Datensatz stark auf mittelgroße Unternehmen konzentriert:** ~89% der Einträge stammen aus Medium-Firmen, was einen direkten Größenvergleich erschwert. Die Gehaltsunterschiede zwischen den Kategorien sind möglicherweise auf unterschiedliche Repräsentation im Datensatz (Self-Selection Bias) zurückzuführen, nicht auf tatsächliche Gehaltsstrukturen.
-- **US-Markt dominiert:** ~80% der Datenpunkte kommen aus den USA; US-Median (~149k USD) liegt deutlich über UK (~91k) und dem Rest Europas.
-- **ML/AI-Rollen sind die bestbezahlten Job-Titel:** Director of Data Science (~203k), 
-  Applied Scientist (~191k) und ML Engineer (~189k) führen das Ranking an. 
-  Auch das Mindestgehalt dieser Rollen liegt deutlich über dem Median der 
-  schlechtbezahlten Titel.
-- **BI- und Analyst-Rollen bilden das untere Ende:** Data Specialist (~85k) und 
-  Research Analyst (~85k) verdienen weniger als halb so viel wie die Top-Rollen — 
-  trotz ähnlicher Datenkompetenz.
-- **Analyse basiert auf 24 Job-Titeln mit ≥ 30 Einträgen** (von 132 gesamt); 
-  57 weitere Titel wurden wegen zu geringer Sample Size ausgeschlossen.
-- **Remote-Arbeit zahlt sich finanziell kaum aus:** Der Median-Gehaltsunterschied zwischen Remote (~137k) und On-site (~142k) beträgt nur ~3,8% — kein signifikanter Unterschied. Hybrid-Jobs weisen einen deutlich niedrigeren Median (~69k) auf, sind aber mit n=213 zu schwach vertreten für belastbare Aussagen.
-- **Employment Type als Confounder:** 99.3% der Einträge sind Full-time-Stellen. Der Work-Model-Vergleich wurde auf Full-time beschränkt; die verbleibenden geografischen Verzerrungen (Niedriglohnländer) werden in Abschnitt 7 adressiert.
+- **Starkes Gehaltswachstum 2020→2023:** Der Median-Jahresverdienst stieg von ~80k USD (2020) auf ~143k USD (2023) – ein Anstieg von knapp 80% in drei Jahren. 2024 zeigt einen leichten Rückgang (~138k).
+- **Erfahrung ist der stärkste Hebel:** Entry-Level (~75k Median) verdienen weniger als halb so viel wie Senior-Level (~154k) und Executive-Level (~185k). Kein anderer Faktor in dieser Analyse zeigt eine vergleichbar starke Differenzierung.
+- **ML/AI-Rollen sind die bestbezahlten Job-Titel:** Director of Data Science (~203k), Applied Scientist (~191k) und ML Engineer (~189k) führen das Ranking an. BI- und Analyst-Rollen (Data Specialist, Research Analyst: ~85k) bilden das untere Ende – trotz ähnlicher Datenkompetenz. Analyse auf 24 Titel mit ≥ 30 Einträgen beschränkt (von 132 gesamt).
+- **Remote-Arbeit zahlt sich finanziell kaum aus:** Median-Unterschied zwischen Remote (~137k) und On-site (~142k) beträgt ~3,8% – kein signifikanter Unterschied. Hybrid-Jobs (~69k, n=213) sind zu schwach vertreten für belastbare Aussagen.
+- **US-Markt dominiert:** ~80% der Datenpunkte kommen aus den USA. US-Median (~148k USD) liegt fast doppelt so hoch wie Europa (~74k). Innerhalb Europas: UK (~89k) und Deutschland (~76k) an der Spitze, Spanien (~52k) und Indien (~30k) am unteren Ende. Vergleiche sind nicht kaufkraftbereinigt (PPP).
+- **Unternehmensgröße: Datenlage eingeschränkt:** ~89% der Einträge stammen aus mittelgroßen Unternehmen (Self-Selection Bias). Ein belastbarer Größenvergleich ist auf Basis dieses Datensatzes nicht möglich.
 
 ---
 
